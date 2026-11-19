@@ -1,0 +1,11 @@
+{
+  "name": "置いとく。",
+  "short_name": "置いとく。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0eb",
+  "theme_color": "#f4f0eb",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
